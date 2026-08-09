@@ -55,7 +55,7 @@ I publish quantized models to **Hugging Face** — collectively **~300k download
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=palmfuture&show_icons=true&theme=radical&hide_border=true)](https://github.com/palmfuture)
+[![GitHub Stats](https://streak-stats.demolab.com/?user=palmfuture&theme=radical&hide_border=true)](https://github.com/palmfuture)
 
 </div>
 
