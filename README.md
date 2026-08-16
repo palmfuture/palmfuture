@@ -23,15 +23,15 @@ I run a small AI lab on the desk next to me, quantize open models in my spare ti
 
 ## 📦 Hugging Face — my main contribution
 
-I publish quantized models to **Hugging Face** — collectively **~300k downloads** and counting.
+I publish quantized models to **Hugging Face** — collectively **~600k downloads** and counting.
 
 | Model | Format | Downloads | Likes |
 |-------|--------|----------:|------:|
-| [Qwen3.6-35B-A3B-GPTQ-Int4](https://huggingface.co/palmfuture/Qwen3.6-35B-A3B-GPTQ-Int4) | GPTQ-Int4 | **282,964** | **29** |
-| [Qwen3.6-27B-GPTQ-Int4](https://huggingface.co/palmfuture/Qwen3.6-27B-GPTQ-Int4) | GPTQ-Int4 | 13,580 | 1 |
-| [Ornith-1.0-35B-NVFP4A16](https://huggingface.co/palmfuture/Ornith-1.0-35B-NVFP4A16) | NVFP4-A16 | 1,773 | 2 |
-| [Nex-N2-mini-NVFP4A16](https://huggingface.co/palmfuture/Nex-N2-mini-NVFP4A16) | NVFP4-A16 | 290 | 0 |
-| [gemma-4-12B-it-FP8](https://huggingface.co/palmfuture/gemma-4-12B-it-FP8) | FP8 | 55 | 1 |
+| [Qwen3.6-35B-A3B-GPTQ-Int4](https://huggingface.co/palmfuture/Qwen3.6-35B-A3B-GPTQ-Int4) | GPTQ-Int4 | **579,893** | **29** |
+| [Qwen3.6-27B-GPTQ-Int4](https://huggingface.co/palmfuture/Qwen3.6-27B-GPTQ-Int4) | GPTQ-Int4 | 24,272 | 1 |
+| [Qwen3.8-27B-GPTQ-Int4](https://huggingface.co/palmfuture/Qwen3.8-27B-GPTQ-Int4) | GPTQ-Int4 | 0 (new) | 0 |
+| [Ornith-1.0-35B-NVFP4A16](https://huggingface.co/palmfuture/Ornith-1.0-35B-NVFP4A16) | NVFP4-A16 | 1,536 | 2 |
+| [Nex-N2-mini-NVFP4A16](https://huggingface.co/palmfuture/Nex-N2-mini-NVFP4A16) | NVFP4-A16 | 129 | 0 |
 
 👉 **Full list:** [huggingface.co/palmfuture](https://huggingface.co/palmfuture)
 
